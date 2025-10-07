@@ -92,31 +92,3 @@ Dealers can segment inventory:
 ### 4. Digital Integration
 
 Integrate price prediction into **online car trading platforms** for instant valuation.
-
----
-
-## 🧠 Tools & Libraries
-
-* Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-* Jupyter Notebook
-* Kaggle Dataset
-* GitHub for version control
-
----
-
-## 🧾 Author
-
-**Alief Dhaffa**
-Data Science Student (Batch DS33B)
-📧 [Your Email Here]
-🔗 [LinkedIn Profile or Portfolio Link]
-
----
-
-## 🙏 Acknowledgments
-
-Special thanks to the **CarDekho Dataset**, **Kaggle community**, and **Data Science instructors** who provided guidance throughout this project.
-
----
-
-> *"Simple, interpretable models can often drive the most impactful business decisions."*
